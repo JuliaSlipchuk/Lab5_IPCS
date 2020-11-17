@@ -1,0 +1,12 @@
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ChilkatDotNet47.dll
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Univer\Information protection on computer systems\Lab5\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
